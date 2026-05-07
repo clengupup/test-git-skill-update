@@ -13,7 +13,7 @@ auto-update-test
 
 ```bash
 # TODO: Add quick start commands
-v_0.0.1
+v_0.0.2
 ```
 
 ## Usage
